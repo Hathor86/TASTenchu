@@ -1,0 +1,30 @@
+
+26
+00000	0001040D	b	s	0	Inventory Shuriken Count
+00001	0001040E	b	s	0	Inventory Calltrops Count
+00002	0001040F	b	s	0	Inventory Healing potion Count
+00003	00010410	b	s	0	Inventory Bomb Count
+00004	00010411	b	s	0	Inventory Smoke Count
+00005	00010412	b	s	0	Inventory Mine Count
+00006	00010413	b	s	0	Inventory Poisened rice Count
+00007	00010414	b	s	0	Inventory Colored rice Count
+00008	00010415	b	s	0	Inventory Sleeping Gas Count
+00009	00010416	b	s	0	Inventory Resurection leaf Count
+0000A	00010417	b	s	0	Inventory Chameleon Spell Count
+0000B	00010418	b	s	0	Inventory Protection Amulet Count
+0000C	00010419	b	s	0	Inventory Scroll Count
+0000D	0001041A	b	s	0	Inventory Shadow Decoy Count
+0000E	0001041B	b	s	0	Inventory Super-Shuriken Count
+0000F	0001041C	b	s	0	Inventory Dog Bone Count
+00010	0001041D	b	s	0	Inventory Fire-Eater Scroll Count
+00011	0001041E	b	s	0	Inventory Decoy Whistle Count
+00012	0001041F	b	s	0	Inventory Ninja Armor Count
+00013	00000000	S	S	0	----------------------------
+00014	0009591A	b	s	0	Spotted Counter
+00015	0009591C	b	s	0	Detected Kills
+00016	00095918	b	s	0	Stealth Kills
+00017	00000000	S	S	0	----------------------------
+00018	000944C0	d	u	0	Time Elapsed
+00019	00000000	S	S	0	----------------------------
+0001A	0012AAC4	w	s	0	X- Absolute Position
+0001B	0012AACC	w	s	0	Y-Absolute Position
